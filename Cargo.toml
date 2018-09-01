@@ -4,4 +4,5 @@ version = "0.1.0"
 authors = ["Sergey Shandar"]
 
 [dependencies]
-rand = "0.5.5"
+rand = "^0.5.5"
+
