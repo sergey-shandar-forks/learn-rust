@@ -6,3 +6,7 @@
 ## Cargo
 
 Use either `cargon new {project}` or `cargo init`.
+
+## Visual Studio Extension
+
+[Rust (rls)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
