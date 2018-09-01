@@ -6,4 +6,3 @@
 ## Cargo
 
 Use either `cargon new {project}` or `cargo init`.
-GPG
