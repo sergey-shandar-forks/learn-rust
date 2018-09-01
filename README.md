@@ -7,6 +7,7 @@
 
 Use either `cargon new {project}` or `cargo init`.
 
-## Visual Studio Extension
+## Visual Studio Code Extension
 
 [Rust (rls)](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
+[Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
