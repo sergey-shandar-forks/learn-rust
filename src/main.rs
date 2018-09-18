@@ -17,9 +17,6 @@ fn main() {
             Err(_) => continue,
         }; 
         println!("You guessed: {}", guess);
-        let x = 5;
-        let y = 10;
-        println!("x = {} and y = {}", x, y);
         match guess.cmp(&secret_number) {
             Ordering::Less => println!("Too small!"),
             Ordering::Greater => println!("Too big!"),
